@@ -10,13 +10,13 @@
 </p>
     
 <p align="center">
-  <img src="https://myserver.gitreviewgame.com/dynamic-svg?progress=1230&max=4095&timestamp=1706970391426" alt="Progress Bar">
+  <img src="https://myserver.gitreviewgame.com/dynamic-svg?progress=1230&max=4095&timestamp=1706970397888" alt="Progress Bar">
 </p>
 
 <h3 align="center">Comments By Category</h3>
 
 <p align="center">
-  <img src="https://myserver.gitreviewgame.com/radar-chart?GN=undefined&GP=undefined&G0=undefined&GA=undefined&SN=undefined&SP=undefined&S0=undefined&SA=undefined&PV=undefined&OT=undefined&timestamp=1706970391426" alt="Radar Chart">
+  <img src="https://myserver.gitreviewgame.com/radar-chart?GN=undefined&GP=undefined&G0=undefined&GA=undefined&SN=undefined&SP=undefined&S0=undefined&SA=undefined&PV=undefined&OT=undefined&timestamp=1706970397888" alt="Radar Chart">
 </p>
     
 <!-- You can add more sections and data as you fetch them from the user's data -->
